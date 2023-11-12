@@ -1,0 +1,24 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-inter: Inter;
+
+  /* font sizes */
+  --font-size-9xl: 28px;
+  --font-size-21xl: 40px;
+  --font-size-29xl: 48px;
+  --font-size-77xl: 96px;
+  --font-size-13xl: 32px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-brown: rgba(154, 28, 43, 0.88);
+  --color-gray-100: rgba(128, 128, 128, 0.16);
+
+  /* Paddings */
+  --padding-3xs: 10px;
+}

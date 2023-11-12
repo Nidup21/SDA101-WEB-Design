@@ -1,0 +1,334 @@
+.home-31-macbookair-1 {
+  width: 98px;
+  height: 39px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.aboutme-31-macbookair-11 {
+  position: absolute;
+  top: 0%;
+  left: 0%;
+}
+.aboutme-31-macbookair-1 {
+  position: relative;
+  width: 172px;
+  height: 39px;
+  cursor: pointer;
+}
+.resume-31-macbookair-1 {
+  position: relative;
+  width: 134px;
+  height: 39px;
+  cursor: pointer;
+}
+.home-31-macbookair-1-parent {
+  position: absolute;
+  height: 1.55%;
+  width: 40%;
+  top: 3.97%;
+  right: 26.02%;
+  bottom: 94.48%;
+  left: 33.98%;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 54px;
+  font-size: var(--font-size-13xl);
+}
+.hithere-31-macbookair-1 {
+  position: absolute;
+  top: 12.27%;
+  left: 20.23%;
+  font-weight: 200;
+}
+.im-a {
+  margin: 0;
+}
+.software-engineer {
+  margin: 0;
+  font-size: var(--font-size-77xl);
+}
+.imasoftwareengineer-31-macbook {
+  position: absolute;
+  top: 17.03%;
+  left: 20.23%;
+  font-weight: 800;
+}
+.software-31-macbookair-1 {
+  position: absolute;
+  top: 5.21%;
+  left: 13.28%;
+  font-size: 150px;
+  font-weight: 800;
+  color: rgba(128, 128, 128, 0.06);
+  -webkit-text-stroke: 1px #808080;
+  transform: rotate(90.08deg);
+  transform-origin: 0 0;
+}
+.rectangle1-31-macbookair-1-icon {
+  position: absolute;
+  height: 12.7%;
+  width: 25%;
+  top: 46.17%;
+  right: 68.28%;
+  bottom: 41.13%;
+  left: 6.72%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.about-31-macbookair-1 {
+  position: absolute;
+  top: 35.57%;
+  left: 36.33%;
+  font-size: var(--font-size-77xl);
+  font-weight: 800;
+  color: var(--color-gray-100);
+}
+.aboutme-31-macbookair-12 {
+  position: absolute;
+  height: 2.3%;
+  width: 17.81%;
+  top: 37.08%;
+  right: 42.73%;
+  bottom: 60.62%;
+  left: 39.45%;
+  font-size: var(--font-size-29xl);
+  color: var(--color-brown);
+}
+.nidup-dorji {
+  color: var(--color-brown);
+}
+.mynameisnidupdorji-31-macbooka {
+  position: absolute;
+  top: 45.3%;
+  left: 37.66%;
+  font-size: var(--font-size-13xl);
+}
+.imcurrentlypursuingbachelorofe {
+  position: relative;
+  display: inline-block;
+  width: 746px;
+  flex-shrink: 0;
+}
+.imcurrentlypursuingbachelorofe-wrapper {
+  position: absolute;
+  height: 11.59%;
+  width: 59.84%;
+  top: 48.35%;
+  right: 3.91%;
+  bottom: 40.06%;
+  left: 36.25%;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  padding: var(--padding-3xs);
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+  font-size: var(--font-size-9xl);
+}
+.cstrubedubt {
+  margin: 0;
+  color: var(--color-white);
+}
+.email02230292cstrubedubt-31-ma {
+  position: absolute;
+  top: 58.87%;
+  left: 37.03%;
+  font-size: var(--font-size-9xl);
+  color: var(--color-brown);
+}
+.phone77222466-31-macbookair-1 {
+  position: absolute;
+  top: 62.41%;
+  left: 37.03%;
+  font-size: var(--font-size-9xl);
+  color: var(--color-brown);
+}
+.home-31-macbookair-1-icon {
+  position: absolute;
+  height: 96.4%;
+  width: 100%;
+  top: 2%;
+  right: 0%;
+  bottom: 1.6%;
+  left: 0%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.home-31-macbookair-12 {
+  position: absolute;
+  height: 1.98%;
+  width: 3.91%;
+  top: 37.28%;
+  right: 86.25%;
+  bottom: 60.74%;
+  left: 9.84%;
+  cursor: pointer;
+}
+.resume-31-macbookair-12 {
+  position: absolute;
+  top: 69.55%;
+  left: 32.42%;
+  font-size: var(--font-size-77xl);
+  color: var(--color-gray-100);
+}
+.resume-31-macbookair-10 {
+  position: absolute;
+  top: 70.94%;
+  left: 39.84%;
+  font-size: var(--font-size-29xl);
+  color: var(--color-brown);
+}
+.home-31-macbookair-1-icon1 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0%;
+  right: 0%;
+  bottom: 0%;
+  left: 0%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.home-31-macbookair-13 {
+  position: absolute;
+  height: 1.98%;
+  width: 3.91%;
+  top: 71.26%;
+  right: 89.38%;
+  bottom: 26.76%;
+  left: 6.72%;
+  cursor: pointer;
+}
+.education-31-macbookair-1 {
+  position: absolute;
+  top: 76.38%;
+  left: 5.55%;
+  color: var(--color-brown);
+}
+.bachelorsofengineeringinsoftwa {
+  position: relative;
+}
+.bachelorsofengineeringinsoftwa-wrapper {
+  position: absolute;
+  width: 42.58%;
+  top: calc(50% + 750.5px);
+  right: 52.66%;
+  left: 4.77%;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-3xs);
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+  font-size: var(--font-size-9xl);
+}
+.project-31-macbookair-1 {
+  position: absolute;
+  top: 76.74%;
+  left: 54.22%;
+  color: var(--color-brown);
+}
+.interest-31-macbookair-1 {
+  position: absolute;
+  width: 14.06%;
+  top: 88.29%;
+  left: 5.55%;
+  display: inline-block;
+  color: var(--color-brown);
+}
+.prowess-31-macbookair-1 {
+  position: absolute;
+  top: 88.65%;
+  left: 54.22%;
+  color: var(--color-brown);
+}
+.datacleaningandpre-processingc-wrapper {
+  position: absolute;
+  height: 4.84%;
+  width: 38.67%;
+  top: 79.79%;
+  right: 7.73%;
+  bottom: 15.36%;
+  left: 53.59%;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-3xs);
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+  font-size: var(--font-size-9xl);
+}
+.programminglanguagepythonwebde-wrapper {
+  position: absolute;
+  height: 4.84%;
+  width: 36.41%;
+  top: 92.46%;
+  right: 10.78%;
+  bottom: 2.7%;
+  left: 52.81%;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-3xs);
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+  font-size: var(--font-size-9xl);
+}
+.basketball-31-macbookair-1-icon {
+  position: absolute;
+  height: 3.97%;
+  width: 7.81%;
+  top: 92.1%;
+  right: 87.42%;
+  bottom: 3.93%;
+  left: 4.77%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.gamecontroller-31-macbookair-1-icon {
+  position: absolute;
+  height: 3.97%;
+  width: 7.81%;
+  top: 91.94%;
+  right: 75.08%;
+  bottom: 4.09%;
+  left: 17.11%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.reading-31-macbookair-1-icon {
+  position: absolute;
+  top: 2316px;
+  left: 374px;
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+  display: none;
+}
+.macbook-air-1 {
+  position: relative;
+  background-color: #000;
+  width: 100%;
+  height: 2519px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-21xl);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}

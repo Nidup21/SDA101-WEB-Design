@@ -1,0 +1,195 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+    <link rel="stylesheet" href="./global.css" />
+    <link rel="stylesheet" href="./index.css" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inter:ital,wght@0,700;0,800;1,200&display=swap"
+    />
+  </head>
+  <body>
+    <div class="macbook-air-1">
+      <div class="home-31-macbookair-1-parent">
+        <div
+          class="home-31-macbookair-1"
+          data-scroll-to="hOME31MacBookAir1Container"
+        >
+          <b class="bachelorsofengineeringinsoftwa">HOME</b>
+        </div>
+        <div class="aboutme-31-macbookair-1" id="aBOUTME31MacBookAir1Container">
+          <b class="aboutme-31-macbookair-11">ABOUT ME</b>
+        </div>
+        <div class="resume-31-macbookair-1" id="rESUME31MacBookAir1Container">
+          <b class="aboutme-31-macbookair-11">RESUME</b>
+        </div>
+      </div>
+      <i class="hithere-31-macbookair-1">HI THERE,</i>
+      <div class="imasoftwareengineer-31-macbook">
+        <p class="im-a">I’m a</p>
+        <p class="software-engineer">Software Engineer</p>
+      </div>
+      <div class="software-31-macbookair-1">Software</div>
+      <img
+        class="rectangle1-31-macbookair-1-icon"
+        alt=""
+        src="./public/rectangle131macbookair1@2x.png"
+      />
+
+      <div class="about-31-macbookair-1">About</div>
+      <div
+        class="aboutme-31-macbookair-12"
+        data-scroll-to="aboutme31MacBookAir1Container"
+      >
+        <b class="aboutme-31-macbookair-11">About me</b>
+      </div>
+      <b class="mynameisnidupdorji-31-macbooka">
+        <span>My name is </span>
+        <span class="nidup-dorji">Nidup Dorji</span>
+      </b>
+      <div class="imcurrentlypursuingbachelorofe-wrapper">
+        <b class="imcurrentlypursuingbachelorofe">
+          <p class="im-a">
+            I’m currently pursuing bachelor of engineering in software
+            engineering under the Royal University of Bhutan. Designing lets me
+            explore aesthetics and user experiences, while programming empowers
+            me to bring those designs to life.
+          </p>
+          <p class="im-a">&nbsp;</p>
+          <p class="im-a">&nbsp;</p>
+          <p class="im-a"></p>
+        </b>
+      </div>
+      <b class="email02230292cstrubedubt-31-ma">
+        <p class="im-a">Email</p>
+        <p class="cstrubedubt">02230292.cst@rub.edu.bt</p>
+      </b>
+      <b class="phone77222466-31-macbookair-1">
+        <p class="im-a">Phone</p>
+        <p class="cstrubedubt">77222466</p>
+      </b>
+      <div class="home-31-macbookair-12" id="home31MacBookAir1Container">
+        <img
+          class="home-31-macbookair-1-icon"
+          alt=""
+          src="./public/home31macbookair1@2x.png"
+        />
+      </div>
+      <b class="resume-31-macbookair-12">Resume</b>
+      <b
+        class="resume-31-macbookair-10"
+        data-scroll-to="resume31MacBookAir10Text"
+        >Resume</b
+      >
+      <div class="home-31-macbookair-13" id="home31MacBookAir1Container1">
+        <img
+          class="home-31-macbookair-1-icon1"
+          alt=""
+          src="./public/home31macbookair11@2x.png"
+        />
+      </div>
+      <b class="education-31-macbookair-1">Education</b>
+      <div class="bachelorsofengineeringinsoftwa-wrapper">
+        <b class="bachelorsofengineeringinsoftwa">
+          <p class="im-a">Bachelors of engineering in Software</p>
+          <p class="im-a">Engineering at College of Science and</p>
+          <p class="im-a">Technology</p>
+        </b>
+      </div>
+      <b class="project-31-macbookair-1">Project</b>
+      <b class="interest-31-macbookair-1">Interest</b>
+      <b class="prowess-31-macbookair-1">Prowess</b>
+      <div class="datacleaningandpre-processingc-wrapper">
+        <b class="bachelorsofengineeringinsoftwa">
+          <p class="im-a">Data cleaning and pre-processing</p>
+          <p class="im-a">Created an user persona</p>
+          <p class="im-a">Currently creating portfolio design</p>
+        </b>
+      </div>
+      <div class="programminglanguagepythonwebde-wrapper">
+        <b class="bachelorsofengineeringinsoftwa">
+          <p class="im-a">Programming language (Python)</p>
+          <p class="im-a">Web development (HTML, CSS)</p>
+          <p class="im-a">Teamwork</p>
+        </b>
+      </div>
+      <img
+        class="basketball-31-macbookair-1-icon"
+        alt=""
+        src="./public/basketball31macbookair1@2x.png"
+      />
+
+      <img
+        class="gamecontroller-31-macbookair-1-icon"
+        alt=""
+        src="./public/gamecontroller31macbookair1@2x.png"
+      />
+
+      <img
+        class="reading-31-macbookair-1-icon"
+        alt=""
+        src="./public/reading31macbookair1@2x.png"
+      />
+    </div>
+
+    <script>
+      var aBOUTME31MacBookAir1Container = document.getElementById(
+        "aBOUTME31MacBookAir1Container",
+      );
+      if (aBOUTME31MacBookAir1Container) {
+        aBOUTME31MacBookAir1Container.addEventListener("click", function () {
+          var anchor = document.querySelector(
+            "[data-scroll-to='aboutme31MacBookAir1Container']",
+          );
+          if (anchor) {
+            anchor.scrollIntoView({ block: "start", behavior: "smooth" });
+          }
+        });
+      }
+
+      var rESUME31MacBookAir1Container = document.getElementById(
+        "rESUME31MacBookAir1Container",
+      );
+      if (rESUME31MacBookAir1Container) {
+        rESUME31MacBookAir1Container.addEventListener("click", function () {
+          var anchor = document.querySelector(
+            "[data-scroll-to='resume31MacBookAir10Text']",
+          );
+          if (anchor) {
+            anchor.scrollIntoView({ block: "start", behavior: "smooth" });
+          }
+        });
+      }
+
+      var home31MacBookAir1Container = document.getElementById(
+        "home31MacBookAir1Container",
+      );
+      if (home31MacBookAir1Container) {
+        home31MacBookAir1Container.addEventListener("click", function () {
+          var anchor = document.querySelector(
+            "[data-scroll-to='hOME31MacBookAir1Container']",
+          );
+          if (anchor) {
+            anchor.scrollIntoView({ block: "start", behavior: "smooth" });
+          }
+        });
+      }
+
+      var home31MacBookAir1Container1 = document.getElementById(
+        "home31MacBookAir1Container1",
+      );
+      if (home31MacBookAir1Container1) {
+        home31MacBookAir1Container1.addEventListener("click", function () {
+          var anchor = document.querySelector(
+            "[data-scroll-to='hOME31MacBookAir1Container']",
+          );
+          if (anchor) {
+            anchor.scrollIntoView({ block: "start", behavior: "smooth" });
+          }
+        });
+      }
+    </script>
+  </body>
+</html>
